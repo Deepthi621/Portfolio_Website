@@ -1,0 +1,61 @@
+#title{
+  font-family: 'Protest Riot', sans-serif;
+  font-size: 6.5rem;
+  color:#448EE4;
+}
+#subtitle{
+  font-family: 'Dosis', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Protest Riot', sans-serif;
+font-size: 1.5rem;
+
+color:#41B9FA;
+
+
+}
+
+.myimg{
+  height:300px;
+  width:300px;
+  border-radius: 50%;
+}
+
+#devanddes{
+ 
+  color:#41B9FA;
+  font-family: 'Protest Guerrilla', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 4rem;
+}
+
+#skill{
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+color:dimgray;
+text-align: justify;
+  
+}
+#skill2{
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+color:dimgray;
+
+}
+.btn{
+  background-color:#41B9FA;
+  
+}
+.text{
+  color: white;
+  font-weight: 500;
+}
+
+
+#getintouch{
+  font-family: 'Josefin Sans', sans-serif;
+  color:#41B9FA;
+}
+
+#footer{
+  background-color:#448EE4;
+}
